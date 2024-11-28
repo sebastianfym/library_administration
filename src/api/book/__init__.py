@@ -1,0 +1,1 @@
+from .views import create, update, delete, detail, list
